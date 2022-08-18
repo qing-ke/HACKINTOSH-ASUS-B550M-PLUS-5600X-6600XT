@@ -30,4 +30,6 @@
    解决方案：之前使用的<<完美USB>>两个USB2.0扩展不可用，替换成当前的解决了
 3. 使用OC引导进入WIN黑屏
    解决方案：未解决，当前去掉WIN引导，配置Scan Policy 3080963，等待时间0，不显示引导界面。
+4. AMD cpu 显示未知
+   解决方案：OC ---platforminfo平台设置 ---processortype 设置 0
    
